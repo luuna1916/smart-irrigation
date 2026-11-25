@@ -22,3 +22,4 @@ Dashboard; Weather & Simulation; Irrigation Monitoring; Demo Scenarios; Decision
 - Estimates and control rules are still the original browser-side demo logic in `script.js`. `app.py` is a minimal Python static server; browsers require JavaScript for the live interactive UI.
 
 All readings and water quantities are simulated estimates, not calibrated hardware measurements. The ESP32 adapter plan and decision assumptions are documented in the source.
+this is my practice branch
